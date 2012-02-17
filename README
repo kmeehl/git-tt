@@ -1,0 +1,7 @@
+Use git difftool to see the changes of a specific file starting now and working back in time. 
+
+INSTALL:
+
+copy to ~/bin
+add the following [alias] line to .gitconfig:
+tt = !~/bin/timetravel.sh
